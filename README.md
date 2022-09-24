@@ -10,4 +10,4 @@ This app is meant to be used by tech industry folks (or those interested in tech
 [Project Repo](https://github.com/caitlinparsons25/tech-blog)
 
 ## Deployed link
-[Deployed](https://drive.google.com/file/d/1na7qYF-rOz8-fbuRVWW3fLPIDoFsDGGJ/view?usp=sharing)
+[Deployed](https://enigmatic-journey-74615.herokuapp.com/)
